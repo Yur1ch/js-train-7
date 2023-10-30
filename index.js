@@ -167,5 +167,5 @@ function useSymbolIterator(obj) {
 }
 
 console.log("Завдання 10 ====================================");
-console.log(useSymbolIterator(myObject)); //Виведе [ 'apple', 'banana', 'orange', 'grape', 'mango' ]
+console.log(useSymbolIterator(myObject)); //Виведе [ 'apple', 'banana', 'orange', 'grape', 'mango ]
 
